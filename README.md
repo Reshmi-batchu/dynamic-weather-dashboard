@@ -24,7 +24,7 @@ It simulates a real-world weather application and helps demonstrate practical fr
 
 ## 🛠️ Tech Stack
 - **HTML5** – Semantic structure  
-- **CSS3** – Styling and responsiveness  
+- **CSS3 / Bootstrap 5** – Styling and responsiveness  
 - **JavaScript (ES6)** – Core logic & API handling  
 - **OpenWeatherMap API** – Weather data source  
 
